@@ -1,4 +1,4 @@
-# LefionOS Downloads
+# LegionOS Downloads
 
 ## Project setup
 ```
